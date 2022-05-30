@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hello There ! 👋, I'm Nachiketa </h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 - 🔭 I’m currently a CSE student at FET - GKV.
 - 📚 I’m a  Flutter Developer**.
