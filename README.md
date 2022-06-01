@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hello There ! 👋, I'm Nachiketa </h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🔭 I’m currently a CSE student at FET - GKV.
+- 🔭 I’m  a CSE student at FET - GKV.
 - 📚 I’m a  Flutter Developer**.
 - 👯 I’m looking to collaborate on **Open Source Project** || **Startup Idea's**.
 
@@ -23,7 +23,7 @@
 
    <a href="https://www.adobe.com/products/xd/pricing/individual.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-
+  <a href="https://www.Facebook.com/nacpa" target="_blank"> <img src="https://esquilo.io/png/thumb/IyX2R67RleYCaQH-Circle-Facebook-Logo-PNG-Background-Image.png" alt="Adobe" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
