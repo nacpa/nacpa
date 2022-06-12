@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *np19082001@gmail.com* 
 
-- ⚡ **YOu BECOME WHat You Believe;**
+- ⚡ **YOu BECOME WHat You **BELIEVE**********************;**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
