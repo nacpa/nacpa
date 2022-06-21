@@ -33,3 +33,7 @@
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=nacpa&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
 </div>
+<div align="center">
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=nacpa&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=" alt="" />
+<img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=nacpa&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE0&sideLabels=4ADEDE&dates=4ADEDE&stroke=" />
+</div>
