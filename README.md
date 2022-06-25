@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on e-commerce Application.
 
-- 💬 Ask me about _android amd flutter_
+- 💬 Ask me about _android amd flutter_ 
 
 - 📫 How to reach me *np19082001@gmail.com* 
 
