@@ -34,7 +34,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=nacpa&show_icons=true&locale=en&layout=compact)
 &nbsp;
-![](https://github-readme-stats.vercel.app/api/wakatime?username=nacpa&layout=compact)&nbsp;
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tanharpatel&layout=compact)
+&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanharpatel&hide_border=true) 
 </div>
 <div align="center">
 <img width="550px" src="https://github-readme-stats.vercel.app/api?username=nacpa&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=" alt="" />
