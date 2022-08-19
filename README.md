@@ -32,8 +32,6 @@
 <div>
 <img src="https://activity-graph.herokuapp.com/graph?username=nacpa&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=nacpa&show_icons=true&locale=en&layout=compact)
-&nbsp;
 
   
 <div align="center">
